@@ -61,25 +61,25 @@
 	"The big brown fox jumped over the shaggy chocolate.": "Шустрая бурая лиса прыгает через ленивую собаку.",
 	
 //PlayerCamera.as
-	"Following {CHARACTERNAME} ({USERNAME})": "Следование за {CHARACTERNAME} ({USERNAME})",
+	"Following {CHARACTERNAME} ({USERNAME})": "Наблюдение за {CHARACTERNAME} ({USERNAME})",
 	
 //ShowTipOnDeath.as
 	"Tip: {TIP}": "Подсказка: {TIP}",
 	
 //TimeToEnd.as
-	"Time is up!\n{TEAM} wins the game!": "Время истекло!\nL'{TEAM} побеждает!",
+	"Time is up!\n{TEAM} wins the game!": "Время истекло!\n{TEAM} побеждает!",
 	"Time is up!\nIt's a tie!": "Время истекло!\nНичья!",
 	"Time left: {MIN}:{SEC}": "Времени осталось: {MIN}:{SEC}",
 
 //// VOTES ////
 //VoteCore.as
 	"Reason: {REASON}": "Причина: {REASON}",
-	"Cast by: {USER}": "Голосование создал: {USER}",
+	"Cast by: {USER}": "Голосование начал: {USER}",
 	"[O] - Yes": "[O] - Да",
 	"[P] - No": "[P] - Нет",
 	"Ctrl+O Pass": "Ctrl+O Принять",
 	"CTRL+P Cancel": "Ctrl+P Отменить",
-	"Click to close ({TIMELEFT}s)": "Надмите, чтобы закрыть ({TIMELEFT} сек.)",
+	"Click to close ({TIMELEFT}s)": "Нажмите, чтобы закрыть ({TIMELEFT} сек.)",
 	
 //TDM_Interface.as
 	"WARMUP": "РАЗОГРЕВ",
@@ -103,7 +103,7 @@
 //TDM_Interface.as
 //Sandbox_Interface.as
 //CTF_PickSpawn.as
-	"Respawning in: {SEC}": "Возраждение через: {SEC}",
+	"Respawning in: {SEC}": "Возрождение через: {SEC}",
 	"approximatively never": "почти никогда",
 	"Pick spawn point": "Выбрать точку возрождения",
 	"Spawn at {ITEM}": "Возродиться в {ITEM}",
